@@ -33,6 +33,10 @@ p {
   border-radius: 0;
 }
 
+.submit-color {
+  background-color: #17a2b8;
+}
+
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
